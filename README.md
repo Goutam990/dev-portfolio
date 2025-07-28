@@ -14,7 +14,6 @@ This project was developed using the following technologies:
 - 🟩 Node.js & Express.js
 - 🎨 CSS3
 - 🧩 React-Bootstrap
-- 💻 Visual Studio Code
 - 🌐 Vercel (for deployment)
 
 ---
